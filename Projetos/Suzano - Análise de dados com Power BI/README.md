@@ -1,6 +1,6 @@
 # Projetos DIO - Modelagem Relacional
 --
-Este repositório contém projetos relacionados a modelagem conceitual, lógica e implementação de bancos de dados, realizados na plataforma [Digital Innovation One (DIO)](https://www.dio.me).
+Este repositório contém projetos relacionados a modelagem relacional e implementação de bancos de dados, realizados na plataforma [Digital Innovation One (DIO)](https://www.dio.me).
 
 ## 🛠️ Projetos Desenvolvidos
 
