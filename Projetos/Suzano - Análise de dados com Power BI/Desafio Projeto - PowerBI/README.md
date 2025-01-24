@@ -31,7 +31,4 @@ Os projetos contidos neste repositório têm como objetivo aplicar técnicas de 
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. Para maiores detalhes, consulte o arquivo `CONTRIBUTING.md`.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
